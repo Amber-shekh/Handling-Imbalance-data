@@ -13,6 +13,6 @@ This repository will compare the performance of different classification algorit
 - ALGORITHMIC WEIGHTAGE
 - GAN same as in SMOTE
 ## Datasets
-- Fraud
+- [Fraud](www.kaggle.com/datasets/mlg-ulb/creditcardfraud)
 - Churn
 - BankMarketing
